@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Dinamik Daktilo Başlığı -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saltuk+%F0%9F%91%8B;Computer+Engineering+Senior;Backend+%26+System+Architecture;Exploring+Machine+Learning+%26+C%2B%2B" alt="Typing SVG" />
+  <!-- Dinamik Başlık -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saltuk+%F0%9F%91%8B;Computer+Engineering+Senior+(3.07+GPA);Backend+Systems+%26+Applied+AI;Deep+Learning+Security+%26+Research" alt="Typing SVG" />
 
   <p>
-    <b>Senior Computer Engineering Student (3.07 GPA)</b> focused on engineering robust backend systems, high-throughput microservices, and applied machine learning models.
+    <b>Senior Computer Engineering Student (3.07 GPA)</b> focused on scalable backend architectures, systems programming, and generative AI robustness.
   </p>
 
   <p>
@@ -20,23 +20,39 @@
 
 ---
 
-### 🔭 Şu An Ne Üzerinde Çalışıyorum?
+### 🔬 Araştırma & Öne Çıkan Projeler
 
-- ⚙️ **Modern Backend Sistemleri:** NestJS ve FastAPI ile asenkron mimariler, mikroservisler ve JWT tabanlı güvenli kimlik doğrulama.
-- ⚡ **Yüksek Performans & Optimizasyon:** C++ ve CUDA ile donanıma yakın hesaplama ve bellek yönetimi optimizasyonları.
-- 🐳 **Altyapı:** Docker konteynerizasyonu, Redis önbellekleme ve PostgreSQL ilişkisel veri modellemesi.
-
----
-
-### 📌 Öne Çıkan Projeler
-
-| Proje | Odak & Mimari | Önemli Teknolojiler | Durum / Link |
-| :--- | :--- | :--- | :---: |
-| **Örnek Proje 1** | Dağıtık veri işleme ve gerçek zamanlı WebSocket haberleşmesi sağlayan API servisi. | `NestJS`, `PostgreSQL`, `Redis`, `Docker` | [İncele](https://github.com/SaltukS1) |
-| **Örnek Proje 2** | Görüntü işleme ve sinir ağı modellerinin optimize edilmiş çıkarım (inference) hattı. | `Python`, `PyTorch`, `OpenCV`, `FastAPI` | [İncele](https://github.com/SaltukS1) |
-| **Örnek Proje 3** | Düşük gecikmeli veri kuyruğu ve soket dinleme aracı. | `C++`, `Linux Sockets`, `CMake` | [İncele](https://github.com/SaltukS1) |
-
-> *(Tablodaki proje adlarını, repolarındaki gerçek projelerinin adları ve GitHub linkleriyle güncelleyebilirsin.)*
+<table>
+  <thead>
+    <tr>
+      <th width="32%">Proje / Deneyim</th>
+      <th width="48%">Odak & Mimari Detayları</th>
+      <th width="20%">Teknoloji Yığını</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🛡️ Lisans Tezi: Adversarial AI Robustness</b></td>
+      <td>Stable Diffusion v1.5 üzerinde <i>Universal Adversarial Triggers (GCG)</i> optimizasyonu ve gradyan birikimi (gradient accumulation) kullanarak metinden-görsele difüzyon modellerinin güvenlik açıklarını ve dayanıklılığını inceleme araştırması.</td>
+      <td><code>Python</code> <code>PyTorch</code> <code>CUDA</code> <code>HuggingFace</code></td>
+    </tr>
+    <tr>
+      <td><b>🚦 AI Destekli Trafik Akışı Optimizasyonu</b></td>
+      <td>Akıllı kavşak yönetimi ve araç yoğunluğuna göre dinamik ışık süreleri hesaplayan yapay zeka optimizasyon modeli. <i>(Yarışma 1.si)</i></td>
+      <td><code>Python</code> <code>OpenCV</code> <code>YOLO</code> <code>Matplotlib</code></td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Kurumsal Ölçekli Backend Mimarisi</b></td>
+      <td>Mikroservis mantığıyla tasarlanmış, JWT tabanlı kimlik doğrulama, asenkron kuyruk yönetimi ve ilişkisel veri modellemesi barındıran tam teşekküllü API servisi.</td>
+      <td><code>NestJS</code> <code>TypeORM</code> <code>PostgreSQL</code> <code>Docker</code></td>
+    </tr>
+    <tr>
+      <td><b>🏢 Staj Deneyimi: OKT Trailer</b></td>
+      <td>Kurumsal ERP sistemleri, veri akış süreçleri ve düşük kodlu entegrasyon araçları üzerinde yazılım mühendisliği geliştirme çalışmaları.</td>
+      <td><code>ERP Systems</code> <code>SQL</code> <code>Process Automation</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -44,9 +60,10 @@
 
 <table>
   <tr>
-    <td align="left" width="25%"><b>Diller</b></td>
+    <td align="left" width="22%"><b>Diller</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -54,26 +71,30 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Backend & API</b></td>
+    <td align="left"><b>Backend & Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Veritabanı & Cache</b></td>
+    <td align="left"><b>AI & Veri Bilimi</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Veritabanı & Altyapı</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>DevOps & Altyapı</b></td>
-    <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -81,11 +102,10 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>AI & Compute</b></td>
+    <td align="left"><b>Geliştirme Araçları</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -107,6 +127,7 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaltukS1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaltukS1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SaltukS1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=SaltukS1&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaltukS1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>

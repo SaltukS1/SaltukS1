@@ -1,7 +1,10 @@
 <div align="center">
 
+  <!-- Düzeltilmiş Dalgalı Banner (URL Güvenli) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Saltuk%20Sanli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Backend%20%26%20AI%20Systems&descFontSize=18&descAlignY=62" width="100%"/>
+
   <!-- Dinamik Daktilo Başlığı -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saltuk+%F0%9F%91%8B;Senior+Computer+Engineering+Student;Backend+Systems+%26+Applied+AI;Deep+Learning+Security+%26+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Senior+Computer+Engineering+Student;Backend+Systems+%26+Applied+AI;Deep+Learning+Security+%26+Research" alt="Typing SVG" />
 
   <p>
     <b>Senior Computer Engineering Student (3.07 GPA)</b> focused on scalable backend architectures, systems programming, and generative AI robustness.
